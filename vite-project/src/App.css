@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-image: url("vite-project/public/BG.png");
 }
 
 .logo {
